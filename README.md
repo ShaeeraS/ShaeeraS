@@ -4,14 +4,6 @@
 <!-- About Me -->
 <p align="center">Welcome to my GitHub profile! I'm on the path to becoming a software engineer, but for now, I'm just a code enthusiast trying to debug my way through life's unexpected errors.</strong> Enthusiast, eager to dive into the world of coding and collaboration.</p>
 
-<!-- Skills -->
-<h2 align="center">Skills & Tools</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Languages-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20Python-blue">
-  <img src="https://img.shields.io/badge/Frameworks-React%20%7C%20Node.js%20%7C%20Express%20%7C%20Django-brightgreen">
-  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20VS%20Code%20%7C%20Docker%20%7C%20Postman-orange">
-</p>
-
 <!-- Goals -->
 <h2 align="center">Goals & Dreams</h2>
 <ul align="center">
