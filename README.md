@@ -1,7 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.micoope.com.gt%2F%3Fo%3Ddownload-funny-garfield-coding-quote-wallpaper-nn-ym0mJgH8&psig=AOvVaw1j-UqDyztyOtrojr4FW-db&ust=1712016308437000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiax6vcn4UDFQAAAAAdAAAAABAE]" width="200" height="200">
-</p>
 <h1 align="center">👋 Hi, I'm Shaeera!</h1>
 
 <!-- About Me -->
@@ -27,7 +24,7 @@
 <h2 align="center">Let's Connect!</h2>
 <p align="center">I'm always excited to collaborate, share knowledge, and connect with fellow developers. Reach out to me through any of the channels below!</p>
 <p align="center">
-  <a href="mailto:shaeerafatima@example.com"><img src="https://img.shields.io/badge/Email-Drop%20Me%20A%20Line-red"></a>
+  <a href="mailto:shaeerafatima@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20Me%20A%20Line-red"></a>
   <a href="[https://www.linkedin.com/in/shaeera-sahi-057120213/]"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue"></a>
 </p>
 
