@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://your-image-url.com" width="200" height="200">
+  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.micoope.com.gt%2F%3Fo%3Ddownload-funny-garfield-coding-quote-wallpaper-nn-ym0mJgH8&psig=AOvVaw1j-UqDyztyOtrojr4FW-db&ust=1712016308437000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiax6vcn4UDFQAAAAAdAAAAABAE]" width="200" height="200">
 </p>
 <h1 align="center">👋 Hi, I'm Shaeera!</h1>
 
 <!-- About Me -->
-<p align="center">Welcome to my GitHub profile! I'm a passionate <strong>[insert your interests or fields here]</strong> enthusiast, eager to dive into the world of coding and collaboration.</p>
+<p align="center">Welcome to my GitHub profile! I'm on the path to becoming a software engineer, but for now, I'm just a code enthusiast trying to debug my way through life's unexpected errors.</strong> Enthusiast, eager to dive into the world of coding and collaboration.</p>
 
 <!-- Skills -->
 <h2 align="center">Skills & Tools</h2>
@@ -27,9 +27,8 @@
 <h2 align="center">Let's Connect!</h2>
 <p align="center">I'm always excited to collaborate, share knowledge, and connect with fellow developers. Reach out to me through any of the channels below!</p>
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Drop%20Me%20A%20Line-red"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue"></a>
-  <a href="https://twitter.com/your-twitter-profile"><img src="https://img.shields.io/badge/Twitter-Follow%20Me-lightblue"></a>
+  <a href="mailto:shaeerafatima@example.com"><img src="https://img.shields.io/badge/Email-Drop%20Me%20A%20Line-red"></a>
+  <a href="[https://www.linkedin.com/in/shaeera-sahi-057120213/]"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue"></a>
 </p>
 
 <!-- Footer -->
